@@ -124,7 +124,7 @@ public class BT1_OanTuTi1 {
 			break;
 		}
 		
-		System.out.println("May ra: " + vietSub);
+		System.out.println("May' ra: " + vietSub);
 		return mayChon;
 	}
 
